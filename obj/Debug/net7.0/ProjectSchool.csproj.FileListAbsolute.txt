@@ -140,3 +140,8 @@ C:\Projects\SNBPSchool\obj\Debug\net7.0\scopedcss\bundle\ProjectSchool.styles.cs
 C:\Projects\SNBPSchool\obj\Debug\net7.0\ProjectSchool.csproj.CopyComplete
 C:\Projects\SNBPSchool\obj\Debug\net7.0\ProjectSchool.genruntimeconfig.cache
 C:\Projects\SNBPSchool\obj\Debug\net7.0\ref\ProjectSchool.dll
+C:\Projects\SNBPSchool\bin\Debug\net7.0\Humanizer.dll
+C:\Projects\SNBPSchool\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\SNBPSchool\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\SNBPSchool\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Projects\SNBPSchool\bin\Debug\net7.0\System.CodeDom.dll

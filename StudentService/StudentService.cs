@@ -1,11 +1,11 @@
-using ProjectSchool.Model;
+using SNBPSchool.Model;
 using AutoMapper;
 using Microsoft.EntityFrameworkCore;
-using ProjectSchool.Data;
+using SNBPSchool.Data;
 using Microsoft.AspNetCore.Mvc;
-using ProjectSchool.Dtos;
+using SNBPSchool.Dtos;
 
-namespace ProjectSchool.Services.StudentService
+namespace SNBPSchool.Services.StudentService
 {
     public class StudentService : IStudentService
     {

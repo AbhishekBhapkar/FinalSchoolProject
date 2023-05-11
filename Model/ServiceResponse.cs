@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ProjectSchool.Model
+namespace SNBPSchool.Model
 {
     public class ServiceResponse<T>
     {

@@ -1,5 +1,5 @@
-using ProjectSchool.Data;
-using ProjectSchool.Services.StudentService;
+using SNBPSchool.Data;
+using SNBPSchool.Services.StudentService;
 using Microsoft.EntityFrameworkCore;
 
 

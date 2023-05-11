@@ -1,8 +1,8 @@
-using ProjectSchool.Dtos;
-using ProjectSchool.Model;
+using SNBPSchool.Dtos;
+using SNBPSchool.Model;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ProjectSchool.Services.StudentService
+namespace SNBPSchool.Services.StudentService
 {
     public interface IStudentService
     {

@@ -1,6 +1,6 @@
-using ProjectSchool.Dtos;
-using ProjectSchool.Model;
-using ProjectSchool.Services.StudentService;
+using SNBPSchool.Dtos;
+using SNBPSchool.Model;
+using SNBPSchool.Services.StudentService;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Cors;
 

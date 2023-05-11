@@ -1,6 +1,6 @@
 using AutoMapper;
-using ProjectSchool.Dtos;
-using ProjectSchool.Model;
+using SNBPSchool.Dtos;
+using SNBPSchool.Model;
 
 namespace GodProject
 {
